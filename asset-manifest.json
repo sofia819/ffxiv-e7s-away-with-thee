@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ffxiv-e7s-dps-laser/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ffxiv-e7s-dps-laser/static/js/main.39cd670b.chunk.js",
+    "main.js.map": "/ffxiv-e7s-dps-laser/static/js/main.39cd670b.chunk.js.map",
+    "runtime-main.js": "/ffxiv-e7s-dps-laser/static/js/runtime-main.749586af.js",
+    "runtime-main.js.map": "/ffxiv-e7s-dps-laser/static/js/runtime-main.749586af.js.map",
+    "static/js/2.061f3e45.chunk.js": "/ffxiv-e7s-dps-laser/static/js/2.061f3e45.chunk.js",
+    "static/js/2.061f3e45.chunk.js.map": "/ffxiv-e7s-dps-laser/static/js/2.061f3e45.chunk.js.map",
+    "index.html": "/ffxiv-e7s-dps-laser/index.html",
+    "precache-manifest.9b95379fc2dc42f68e78813049176df9.js": "/ffxiv-e7s-dps-laser/precache-manifest.9b95379fc2dc42f68e78813049176df9.js",
+    "service-worker.js": "/ffxiv-e7s-dps-laser/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ffxiv-e7s-dps-laser/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.061f3e45.chunk.js.LICENSE.txt": "/ffxiv-e7s-dps-laser/static/js/2.061f3e45.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ffxiv-e7s-dps-laser/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.749586af.js",
+    "static/js/2.061f3e45.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.39cd670b.chunk.js"
+  ]
+}
