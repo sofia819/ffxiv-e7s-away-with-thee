@@ -12,7 +12,7 @@ Make an app to simulate how the mechanic works. The teleport direction is relati
 
 ## How to use
 
-[Link to App](http://sofia819.github.io/ffxiv-e7s-dps-laser)
+[Link to App](http://sofia819.github.io/ffxiv-e7s-away-with-thee)
 
 - Click on `Change teleport direction` to change the direction of the debuff given.
 - Click on `Change player orientation` to change where your character is facing.
