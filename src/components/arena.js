@@ -1,26 +1,43 @@
 import React from "react";
-import { ArenaSquare } from "./arenaSquare.js";
+import { ArenaSquare } from "./arenaSquare";
+import { Player } from "./player";
 
-// For reference
-const COL_NUM = 4;
-const ROW_NUM = 4;
-
-export const ArenaRow = props => {
+/**
+ * A 3x3 grid representing the area around the player
+ */
+export const Arena = props => {
+  const { teleportDirection, degreeTurned } = props;
   return (
     <>
-      <ArenaSquare row={props.row} column={1} />
-      <ArenaSquare row={props.row} column={2} />
-      <ArenaSquare row={props.row} column={3} />
-      <ArenaSquare row={props.row} column={4} />
+      <ArenaSquare
+        shouldShow={false}
+        row={1}
+        column={1}
+        teleportDirection={teleportDirection}
+      />
+      <ArenaSquare row={1} column={2} teleportDirection={teleportDirection} />
+      <ArenaSquare
+        shouldShow={false}
+        row={1}
+        column={3}
+        teleportDirection={teleportDirection}
+      />
+      <ArenaSquare row={2} column={1} teleportDirection={teleportDirection} />
+      <Player degree={degreeTurned} />
+      <ArenaSquare row={2} column={3} teleportDirection={teleportDirection} />
+      <ArenaSquare
+        shouldShow={false}
+        row={3}
+        column={1}
+        teleportDirection={teleportDirection}
+      />
+      <ArenaSquare row={3} column={2} teleportDirection={teleportDirection} />
+      <ArenaSquare
+        shouldShow={false}
+        row={3}
+        column={3}
+        teleportDirection={teleportDirection}
+      />
     </>
   );
 };
-
-export const Arena = props => (
-  <>
-    <ArenaRow row={1} />
-    <ArenaRow row={2} />
-    <ArenaRow row={3} />
-    <ArenaRow row={4} />
-  </>
-);

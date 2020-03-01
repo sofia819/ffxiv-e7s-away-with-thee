@@ -5,6 +5,9 @@ import "./player.scss";
 
 const IMAGE_SIZE = 100;
 
+/**
+ * Represents a player in the arena with an arrow as an image of the player 
+ */
 export const Player = props => (
   <div className="player">
     <img
@@ -12,6 +15,7 @@ export const Player = props => (
       width={IMAGE_SIZE}
       height={IMAGE_SIZE}
       className={`player--rotate--${props.degree}`}
+      alt="an arrow to indicate the character orientation"
     />
   </div>
 );

@@ -1,9 +1,11 @@
+// Utilities
+@import "./_utils.scss";
+
 .arenaSquare {
   width: 180px;
   height: 180px;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-top: 1px solid black;
-  border-right: 1px solid black;
+  @include border();
 }

@@ -4,9 +4,13 @@ import "./arenaSquare.scss";
 import PropTypes from "prop-types";
 import { RIGHT, LEFT, FRONT, BACK } from "../constants";
 
+// Where the player square is located
 const PLAYER_ROW = 2;
 const PLAYER_COLUMN = 2;
 
+/**
+ * An arena square that makes up an entire arena
+ */
 export const ArenaSquare = props => {
   const isBack = PLAYER_ROW + 1 === props.row && PLAYER_COLUMN === props.column;
   const isFront =

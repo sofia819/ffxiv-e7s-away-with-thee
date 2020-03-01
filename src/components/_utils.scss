@@ -1,8 +1,14 @@
-// Creates a mixin to perform the rotation with a provided angle
+// A mixin to perform the rotation with a provided angle
 @mixin rotate($angle) {
   -webkit-transform: rotate($angle + deg);
   -moz-transform: rotate($angle + deg);
   -ms-transform: rotate($angle + deg);
   -o-transform: rotate($angle + deg);
   transform: rotate($angle + deg);
+}
+
+// A mixin for border style
+@mixin border() {
+  border-top: 1px solid black;
+  border-right: 1px solid black;
 }

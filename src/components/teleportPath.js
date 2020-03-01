@@ -2,6 +2,9 @@ import React from "react";
 import PropTypes from "prop-types";
 import "./teleportPath.scss";
 
+/**
+ * A rectangle line representing the teleport path of the player
+ */
 export const TeleportPath = props => (
   <div
     style={{
