@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ffxiv-e7s-dps-laser/static/css/main.27af8796.chunk.css",
-    "main.js": "/ffxiv-e7s-dps-laser/static/js/main.d1a8d5d2.chunk.js",
-    "main.js.map": "/ffxiv-e7s-dps-laser/static/js/main.d1a8d5d2.chunk.js.map",
-    "runtime-main.js": "/ffxiv-e7s-dps-laser/static/js/runtime-main.749586af.js",
-    "runtime-main.js.map": "/ffxiv-e7s-dps-laser/static/js/runtime-main.749586af.js.map",
-    "static/js/2.04d8c757.chunk.js": "/ffxiv-e7s-dps-laser/static/js/2.04d8c757.chunk.js",
-    "static/js/2.04d8c757.chunk.js.map": "/ffxiv-e7s-dps-laser/static/js/2.04d8c757.chunk.js.map",
-    "index.html": "/ffxiv-e7s-dps-laser/index.html",
-    "precache-manifest.04b63bf6fc8c18ad1ba4966042c69154.js": "/ffxiv-e7s-dps-laser/precache-manifest.04b63bf6fc8c18ad1ba4966042c69154.js",
-    "service-worker.js": "/ffxiv-e7s-dps-laser/service-worker.js",
-    "static/css/main.27af8796.chunk.css.map": "/ffxiv-e7s-dps-laser/static/css/main.27af8796.chunk.css.map",
-    "static/js/2.04d8c757.chunk.js.LICENSE.txt": "/ffxiv-e7s-dps-laser/static/js/2.04d8c757.chunk.js.LICENSE.txt"
+    "main.css": "/ffxiv-e7s-away-with-thee/static/css/main.27af8796.chunk.css",
+    "main.js": "/ffxiv-e7s-away-with-thee/static/js/main.d1a8d5d2.chunk.js",
+    "main.js.map": "/ffxiv-e7s-away-with-thee/static/js/main.d1a8d5d2.chunk.js.map",
+    "runtime-main.js": "/ffxiv-e7s-away-with-thee/static/js/runtime-main.3dd513da.js",
+    "runtime-main.js.map": "/ffxiv-e7s-away-with-thee/static/js/runtime-main.3dd513da.js.map",
+    "static/js/2.04d8c757.chunk.js": "/ffxiv-e7s-away-with-thee/static/js/2.04d8c757.chunk.js",
+    "static/js/2.04d8c757.chunk.js.map": "/ffxiv-e7s-away-with-thee/static/js/2.04d8c757.chunk.js.map",
+    "index.html": "/ffxiv-e7s-away-with-thee/index.html",
+    "precache-manifest.987f3a99974b6828058d49827dfeb80d.js": "/ffxiv-e7s-away-with-thee/precache-manifest.987f3a99974b6828058d49827dfeb80d.js",
+    "service-worker.js": "/ffxiv-e7s-away-with-thee/service-worker.js",
+    "static/css/main.27af8796.chunk.css.map": "/ffxiv-e7s-away-with-thee/static/css/main.27af8796.chunk.css.map",
+    "static/js/2.04d8c757.chunk.js.LICENSE.txt": "/ffxiv-e7s-away-with-thee/static/js/2.04d8c757.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.749586af.js",
+    "static/js/runtime-main.3dd513da.js",
     "static/js/2.04d8c757.chunk.js",
     "static/css/main.27af8796.chunk.css",
     "static/js/main.d1a8d5d2.chunk.js"
