@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ffxiv-e7s-away-with-thee/precache-manifest.987f3a99974b6828058d49827dfeb80d.js"
+  "/ffxiv-e7s-away-with-thee/precache-manifest.9b246dc1ec20f2e8fdc17ffb9a46bb26.js"
 );
 
 self.addEventListener('message', (event) => {

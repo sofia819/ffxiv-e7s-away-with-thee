@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf153195fff99a5a27eb044526cc080f",
+    "revision": "6d90eeedbd40fcf6b6211667f25c5953",
     "url": "/ffxiv-e7s-away-with-thee/index.html"
   },
   {
-    "revision": "6aae237024b6363459cd",
-    "url": "/ffxiv-e7s-away-with-thee/static/css/main.27af8796.chunk.css"
+    "revision": "835e4e8a3400626cd27a",
+    "url": "/ffxiv-e7s-away-with-thee/static/css/main.1e4632fb.chunk.css"
   },
   {
     "revision": "d19d2f2f3b1370041ffe",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ffxiv-e7s-away-with-thee/static/js/2.04d8c757.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6aae237024b6363459cd",
-    "url": "/ffxiv-e7s-away-with-thee/static/js/main.d1a8d5d2.chunk.js"
+    "revision": "835e4e8a3400626cd27a",
+    "url": "/ffxiv-e7s-away-with-thee/static/js/main.3bdbff33.chunk.js"
   },
   {
     "revision": "c4d16480e5354837c8f8",
